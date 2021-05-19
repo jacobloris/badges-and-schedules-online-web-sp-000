@@ -8,4 +8,4 @@ def batch_badge_creator(speakers)
   array = []
   speakers.each do |speaker|
     var = "Hello, my name is #{speaker}."
-    array = 
+    array.push
