@@ -17,4 +17,4 @@ def assign_rooms(speakers)
   array = []
   room_number = 1 
   speakers.each do |speaker|
-    
+    var = "Hello, #{speaker}, "
