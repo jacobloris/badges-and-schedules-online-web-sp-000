@@ -21,4 +21,6 @@ def assign_rooms(speakers)
     room_number =- 1 
     array.push(var)
   end
-  
+  array
+end
+
