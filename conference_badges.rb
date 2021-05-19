@@ -7,4 +7,4 @@ end
 def batch_badge_creator(speakers)
   array = []
   speakers.each do |speaker|
-    
+    var=
