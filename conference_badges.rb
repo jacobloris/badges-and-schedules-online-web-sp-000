@@ -10,5 +10,6 @@ def batch_badge_creator(speakers)
     var = "Hello, my name is #{speaker}."
     array.push(var)
   end
-  
-  
+  array
+end 
+
